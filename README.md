@@ -10,7 +10,7 @@
   - 기상청 종관 기상 관측 정보 데이터(2010~2021)
   - 기상청 관측 지점 데이터
 - 사용 모델
-  -DNN ,RNN ,KNN, random_forest , XGB
+  -DNN ,RNN ,KNN, random_forest , XGBoost
 <br>
 
 
