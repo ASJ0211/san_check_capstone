@@ -58,7 +58,6 @@ keras를 활용해 웹페이지를 개발하고 데이터들을 시각화 하는
 <br>
 
 
-산악사고 예방을 위한
 ![image](https://github.com/ASJ0211/san_check_capstone/assets/118821779/e617747e-76be-4533-9875-a5dbb964a96d)
 ![image](https://github.com/ASJ0211/san_check_capstone/assets/118821779/a49ed31c-329a-42d2-bca2-648c467538ae)
 ![image](https://github.com/ASJ0211/san_check_capstone/assets/118821779/5092e90a-588d-4f8c-a467-b0935fc458e6)
