@@ -57,14 +57,6 @@ keras를 활용해 웹페이지를 개발하고 데이터들을 시각화 하는
 <br>
 <br>
 
-<div class="image-container">
-  <img src="https://user-images.githubusercontent.com/93497667/232216526-99e27c85-daac-4a25-b49a-73c3848aaf25.jpg" alt="image"  width="400"/>
-  <img src="https://user-images.githubusercontent.com/93497667/232216651-c00ad08b-0d94-43ef-998b-8851b734d169.jpg" alt="image"  width="400"/>
-</div>
-
-
-- [커널밀도분석(KDE)](https://www.notion.so/TMP-e977f66c09ee453b9e2c05d3869ff5e9?pvs=4)
-
 
 산악사고 예방을 위한
 ![image](https://github.com/ASJ0211/san_check_capstone/assets/118821779/e617747e-76be-4533-9875-a5dbb964a96d)
